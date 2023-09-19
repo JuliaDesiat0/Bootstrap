@@ -301,7 +301,7 @@
     justify-content: end;
 
 }
-.vermelho {
+.vermelho-breno {
     background-color: #DF2727 !important;
     height: 400px;
     border-radius: 7px;
@@ -316,6 +316,7 @@
 
 .vinho-breno {
     background-image: url(../img/hamburgao.jpg);
+    background-repeat: no-repeat;
     min-height: 400px;
     position: relative;
 }
@@ -324,6 +325,7 @@
     background-color: rgb(255, 221, 0) !important;
     height: 111px;
     width: 1350px;
+    padding-top: 32px;
 
 }
 
